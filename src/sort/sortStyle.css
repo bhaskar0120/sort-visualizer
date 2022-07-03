@@ -1,0 +1,14 @@
+.show{
+    display: flex;
+    align-items: baseline;
+}
+.green{
+    background-color: green;
+}
+.red {
+    background-color: red;
+}
+.sortElement{
+    min-width: 20px;
+    background-color: gray
+}
